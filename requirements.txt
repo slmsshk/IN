@@ -16,3 +16,7 @@ python-dotenv
 PyPDF2
 streamlit
 pdfminer.six
+matplotlib
+seaborn
+wordcloud
+textblob
